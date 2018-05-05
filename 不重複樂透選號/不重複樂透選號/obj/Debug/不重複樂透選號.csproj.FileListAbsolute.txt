@@ -1,0 +1,6 @@
+C:\Users\C616-5\Desktop\不重複樂透選號\不重複樂透選號\bin\Debug\不重複樂透選號.exe.config
+C:\Users\C616-5\Desktop\不重複樂透選號\不重複樂透選號\bin\Debug\不重複樂透選號.exe
+C:\Users\C616-5\Desktop\不重複樂透選號\不重複樂透選號\bin\Debug\不重複樂透選號.pdb
+C:\Users\C616-5\Desktop\不重複樂透選號\不重複樂透選號\obj\Debug\不重複樂透選號.csprojResolveAssemblyReference.cache
+C:\Users\C616-5\Desktop\不重複樂透選號\不重複樂透選號\obj\Debug\不重複樂透選號.exe
+C:\Users\C616-5\Desktop\不重複樂透選號\不重複樂透選號\obj\Debug\不重複樂透選號.pdb
